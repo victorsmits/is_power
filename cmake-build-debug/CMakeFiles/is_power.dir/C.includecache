@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victorsmits/Dropbox/ECAM/BAC3/Electronique numérique/Programmation C/C/is_power/main.c
+stdio.h
+-
+stdbool.h
+-
+
